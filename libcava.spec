@@ -4,7 +4,7 @@
 %define devname %mklibname cava -d
 
 Name:           cava
-Version:        0.10.3
+Version:        0.10.4
 Release:        1
 Summary:        Fork to provide cava as a shared library, e.g. used by waybar. Cava is not provided as executable
 Group:          System/Libraries
@@ -82,6 +82,7 @@ rm -rf %{buildroot}%{_datadir}/consolefonts/cava.psf
 %{_includedir}/cava/output/sdl_glsl.h
 %{_includedir}/cava/output/terminal_ncurses.h
 %{_includedir}/cava/output/terminal_noncurses.h
+%{_includedir}/cava/output/terminal_bcircle.h
 %{_libdir}/pkgconfig/cava.pc
 
 
