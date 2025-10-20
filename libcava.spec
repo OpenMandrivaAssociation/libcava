@@ -5,7 +5,7 @@
 
 Name:           cava
 Version:        0.10.4
-Release:        1
+Release:        2
 Summary:        Fork to provide cava as a shared library, e.g. used by waybar. Cava is not provided as executable
 Group:          System/Libraries
 License:        MIT
