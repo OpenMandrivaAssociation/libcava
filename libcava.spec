@@ -4,8 +4,8 @@
 %define devname %mklibname cava -d
 
 Name:           cava
-Version:        0.10.4
-Release:        2
+Version:        0.10.6
+Release:        1
 Summary:        Fork to provide cava as a shared library, e.g. used by waybar. Cava is not provided as executable
 Group:          System/Libraries
 License:        MIT
